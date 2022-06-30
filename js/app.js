@@ -63,7 +63,7 @@ const fetchIPAndUpdateUI = (ipAddress) => {
         // catching error when and Invalid Ip Address is entered or when no ip Address is enter and the search button is clicked 
         .catch((res) => {
             err = new Error(res)
-            const message = err.message.split(':');  
+            const message = err.message.split(':');
             ipInput.placeholder = message[1]
         });
     } else if (ipInput.value == '') {
