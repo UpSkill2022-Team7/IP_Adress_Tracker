@@ -11,11 +11,11 @@ Thanks for checking out our Project.
 ## Table of contents
 
 -   [Overview](#IP ADRESS TRACKER WEBSITE)
-    -   [The challenge](#IP_ADRESS_TRACKER)
+    -   [Frontend Mentor Challege IP_Adress Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
     -   [Screenshot](https://user-images.githubusercontent.com/75815637/176887139-3f1a25dd-4957-42c5-a22c-990869f76c3e.png)
     -   [Links](#links)
     -   [Built with](#HTML, #CSS AND #JAVASCRIPT)
-    -   [What I learned](#Learned How To Make API Calls)
+    -   [Learned How To Make API Calls](#Learned How To Make API Calls)
 -   [Author](#author)
 -   [Acknowledgments](#acknowledgments)
 
