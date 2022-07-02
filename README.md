@@ -10,17 +10,16 @@ Thanks for checking out our Project.
 
 ## Table of contents
 
- -   [Overview](#IP ADRESS TRACKER WEBSITE)
+ -   [IP ADRESS TRACKER WEBSITE]()
     -   [Frontend Mentor Challege IP_Adress Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
  ![](https://user-images.githubusercontent.com/75815637/176887139-3f1a25dd-4957-42c5-a22c-990869f76c3e.png)
-    -   [Links](#links)
+    -   [Links](#https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
     -   [#HTML, #CSS AND #JAVASCRIPT](#HTML, #CSS AND #JAVASCRIPT)
     -   [Learned How To Make API Calls]()
 -   [Author](#author)
 -   [Acknowledgments](#acknowledgments)
 
 
-## Overview
 
 IP ADRESS TRACKER WEBSITE
 
@@ -37,14 +36,14 @@ Using two separate APIs together to create an IP Address Tracking app.
 
 ### Links
 
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [https://team-7.netlify.app](https://team-7.netlify.app)
 
 
 ### Built with
 
--   Tool 1
--   Tool 2
--   Tool 3
+-   HTML
+-   CSS
+-   JAVASCRIPT
 
 
 ### What  learned
