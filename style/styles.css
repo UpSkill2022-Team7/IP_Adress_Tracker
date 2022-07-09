@@ -45,7 +45,7 @@ header {
     padding: 25px 0px;
 }
 
-.title h1 {
+.title p {
     color: white;
     font-size: 20px;
 }
@@ -140,60 +140,6 @@ main {
 }
 
 
-/* ==========styling the footer========== */
-
-.foot {
-    /* margin-top: 5%; */
-    background-color: #000;
-}
-
-.foot .content {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 2%;
-    /* margin-bottom: 40px; */
-}
-
-.my-fot h1 {
-    font-family: 'Pacifico', sans-serif !important;
-    font-size: 40px;
-    font-weight: 600;
-    color: #fff;
-}
-
-.foot .content .my-fot {
-    margin: 0 7%;
-}
-
-.foot .content .my-fot p,
-a {
-    font-weight: bold;
-    color: darkgray;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-.foot .content .my-fot .d {
-    font-weight: bold;
-    color: darkgray;
-    font-size: 17px;
-}
-
-.copyright {
-    flex-wrap: wrap;
-    text-align: center;
-    padding-bottom: 10px;
-    background: #fff;
-}
-
-.copyright a {
-    font-weight: bold;
-    color: #000;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-
 /* Responsiveness */
 
 @media only screen and (min-width:576px) {
@@ -228,7 +174,7 @@ a {
         width: 10%;
     }
     .info_section {
-        height: 136px;
+        height: 120px;
         padding-top: 25px;
         padding-bottom: 25px;
         width: 80%;
