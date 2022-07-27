@@ -89,13 +89,14 @@ input {
 
 button {
     height: 45px;
-    width: 15%;
+    width: 25%;
     border: 0px;
     background-color: black;
     color: white;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
     outline: none;
+    cursor: pointer;
 }
 
 
@@ -180,6 +181,7 @@ main {
         width: 80%;
         flex-direction: row;
         justify-content: space-evenly;
+        border-radius: 10px;
     }
     .info_wrapper {
         height: 86px;
