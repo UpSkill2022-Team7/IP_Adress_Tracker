@@ -140,6 +140,10 @@ main {
     min-height: 430px;
 }
 
+::placeholder {
+    font-size: small;
+}
+
 
 /* Responsiveness */
 
@@ -152,6 +156,10 @@ main {
     }
 }
 
+::placeholder {
+    font-size: small;
+}
+
 @media only screen and (min-width:768px) {
     .searchBar {
         width: 30%;
@@ -159,6 +167,10 @@ main {
     .info_section {
         width: 30%;
     }
+}
+
+::placeholder {
+    font-size: small;
 }
 
 @media only screen and (min-width:992px) {
@@ -186,6 +198,9 @@ main {
     .info_wrapper {
         height: 86px;
     }
+     ::placeholder {
+        font-size: small;
+    }
     .info_section div {
         width: 25%;
         padding-right: 20px;
@@ -196,4 +211,16 @@ main {
     .isp {
         border: none;
     }
+}
+
+button {
+    height: 45px;
+    width: 25%;
+    border: 0px;
+    background-color: black;
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    outline: none;
+    cursor: pointer;
 }
